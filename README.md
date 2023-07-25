@@ -16,14 +16,14 @@ you need 1 LED ,1 PUSHBUTTON and 2 Resister.
 
 Link Resister to cathode LED thin link to GND in Arduino or Breadboard, anode link to digital pin in Arduino.
 
-link Resister to PUSHBUTTON thin link to GND in Arduino or Breadboard and link cable to Arduino form Breadboard or unden Resister, anode link to 5v or anode in Breadboard  .
+link Resister to PUSHBUTTON thin link to GND in Arduino or Breadboard and link cable to Arduino form Breadboard or down Resister, anode link to 5v or anode in Breadboard  .
 
 
 # Installation
 
 To install the software, follow these steps:
 
-Clone this repository: git clone https://github.com/ahmed-eldesoky284/2WD-Rocto-RC Connect the hardware components as shown in the diagram in the docs directory. Upload the flashingbytimer.ino sketch to the Arduino board using the Arduino IDE. .
+Clone this repository: git clone https://github.com/ahmed-eldesoky284/flashingbytimer.git Connect the hardware components as shown in the diagram in the docs directory. Upload the flashingbytimer.ino sketch to the Arduino board using the Arduino IDE. .
 
 # Usage
 
