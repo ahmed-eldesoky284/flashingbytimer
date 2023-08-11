@@ -23,7 +23,7 @@ link Resister to PUSHBUTTON thin link to GND in Arduino or Breadboard and link c
 
 To install the software, follow these steps:
 
-Clone this repository: git clone https://github.com/ahmed-eldesoky284/waitpd_Library.git Connect the hardware components as shown in the diagram in the docs directory. Upload the flashingbytimer.ino sketch to the Arduino board using the Arduino IDE. .
+Clone this repository: git clone https://github.com/ahmed-eldesoky284/waitpd.git Connect the hardware components as shown in the diagram in the docs directory. Upload the flashingbytimer.ino sketch to the Arduino board using the Arduino IDE. .
 
 # Usage
 
