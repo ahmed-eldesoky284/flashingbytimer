@@ -1,5 +1,5 @@
 #include <waitpd.h>
-waitpd wait1(6,13,50000);
+waitpd wait1(6,13,5000);
 waitpd wait2(8,13,100);
 void setup(){ 
   pinMode(13,OUTPUT);
