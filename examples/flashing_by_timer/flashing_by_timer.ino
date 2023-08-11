@@ -9,5 +9,6 @@ void setup(){
 void loop(){
   if(digitalRead(7))
    digitalWrite(13,1);
-  
-  wait2.waits(9);}
+
+  wait1.waits();
+  wait2.waits(5);}
