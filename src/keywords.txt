@@ -1,0 +1,4 @@
+waitpd	KEYWORD1
+
+waitm	KEYWORD2
+waits	KEYWORD2
