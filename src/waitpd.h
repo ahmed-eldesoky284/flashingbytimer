@@ -7,7 +7,7 @@ class waitpd{
   unsigned long t,c1,c2;
   bool x=false;
   public:
-  	void waits(int v);
+  	void waits(byte t);
   	void waitm();
   waitpd(byte buttonpin,byte outputpin,unsigned long time);
  
