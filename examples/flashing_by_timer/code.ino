@@ -36,4 +36,5 @@ void loop(){
   if(digitalRead(7))
    digitalWrite(13,1);
   
-  wait2.waits(5);}
+ wait1.waitm();
+  wait2.waits(5)}
